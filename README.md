@@ -1,12 +1,12 @@
 # Zend Framework 1 - Controller_Action_Helper_AutoComplete
 
-[![Build](https://github.com/diablomedia/zf1-controller-action-helper-autocomplete/workflows/Build/badge.svg?event=push)](https://github.com/diablomedia/zf1-controller-action-helper-autocomplete/actions?query=workflow%3ABuild+event%3Apush)
-[![codecov](https://codecov.io/gh/diablomedia/zf1-controller-action-helper-autocomplete/branch/master/graph/badge.svg)](https://codecov.io/gh/diablomedia/zf1-controller-action-helper-autocomplete)
-[![Latest Stable Version](https://poser.pugx.org/diablomedia/zendframework1-controller-action-helper-autocomplete/v/stable)](https://packagist.org/packages/diablomedia/zendframework1-controller-action-helper-autocomplete)
-[![Total Downloads](https://poser.pugx.org/diablomedia/zendframework1-controller-action-helper-autocomplete/downloads)](https://packagist.org/packages/diablomedia/zendframework1-controller-action-helper-autocomplete)
-[![License](https://poser.pugx.org/diablomedia/zendframework1-controller-action-helper-autocomplete/license)](https://packagist.org/packages/diablomedia/zendframework1-controller-action-helper-autocomplete)
+[![Build](https://github.com/gizmocraftcom/zf1-controller-action-helper-autocomplete/workflows/Build/badge.svg?event=push)](https://github.com/gizmocraftcom/zf1-controller-action-helper-autocomplete/actions?query=workflow%3ABuild+event%3Apush)
+[![codecov](https://codecov.io/gh/gizmocraftcom/zf1-controller-action-helper-autocomplete/branch/master/graph/badge.svg)](https://codecov.io/gh/gizmocraftcom/zf1-controller-action-helper-autocomplete)
+[![Latest Stable Version](https://poser.pugx.org/gizmocraft/zendframework1-controller-action-helper-autocomplete/v/stable)](https://packagist.org/packages/gizmocraft/zendframework1-controller-action-helper-autocomplete)
+[![Total Downloads](https://poser.pugx.org/gizmocraft/zendframework1-controller-action-helper-autocomplete/downloads)](https://packagist.org/packages/gizmocraft/zendframework1-controller-action-helper-autocomplete)
+[![License](https://poser.pugx.org/gizmocraft/zendframework1-controller-action-helper-autocomplete/license)](https://packagist.org/packages/gizmocraft/zendframework1-controller-action-helper-autocomplete)
 
-> [!WARNING]  
-> We've archived this repo as we're no longer using or maintaining Zend Framework 1
 
-This is just the Zend_Controller_Action_Helper_AutoComplete component extracted from our fork of the Zend Framework 1 repo (https://github.com/diablomedia/zf1).
+This is just the Zend_Controller_Action_Helper_AutoComplete component extracted from our fork of the Zend Framework 1 repo (https://github.com/gizmocraftcom/zf1).
+
+Originally forked from the upstream repository https://github.com/diablomedia/zf1-controller-action-helper-autocomplete. Copyright and license of the original authors are kept in LICENSE.txt.
